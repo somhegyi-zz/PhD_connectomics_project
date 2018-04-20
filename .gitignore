@@ -1,0 +1,5 @@
+# File with passwords and such
+.env
+
+settings.py
+test.py
